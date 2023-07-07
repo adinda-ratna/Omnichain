@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Plateform
+  - Ninja
+  - Enemy
+  - Weapon
+  - SpawnPoint
+  - EnemyContainer
+  - NinjaContainer
+  - SelectBtn
+  - BuyBtn
+  - Hat
+  - Devil
+  - DevilContainer
+  - PowerUp
+  - Shield
+  - heart
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ninja
+  - Enemy
+  - Weapon
+  - EnemyWeapon
+  - Power
+  - Hat
+  - particle
+  - levelcomplete
+  - Shield
+  - Background
+  - Border
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1271537433
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ninja
+    uniqueID: 2056378319
+    locked: 0
+  - name: Hat
+    uniqueID: 1306975965
+    locked: 0
+  - name: Enemy
+    uniqueID: 650916747
+    locked: 0
+  - name: Weapon
+    uniqueID: 1898283805
+    locked: 0
+  - name: LevelComplete
+    uniqueID: 3733583203
+    locked: 0
+  - name: particles
+    uniqueID: 3286042675
+    locked: 0
