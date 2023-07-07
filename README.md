@@ -1,6 +1,7 @@
 # NinjaCatalyst
 
 **Earn NFT Token while you playing the game and swap to ERC20 Token**
+
 Ninja catalyst Game is Play-To-Earn which combines 3 important components such as Web3,Unity and Zetachain for the whole Crypto Communities or NFT Enthusias who like to play Adventure Game.
 
 ## Problem
@@ -24,7 +25,7 @@ The  flow of each nft game causes 3 main problems
 5. Combines roll-up technology with a decentralized data availability layer and more
 
 ## Web App Demo
-### 1. Zetachain (Athens) : [https://web.catalystt.net/](https://web.catalystt.net/)
+### 1. Zetachain (Athens) : [https://zeta-catalyst.pages.dev](https://zeta-catalyst.pages.dev)
 
 ## Features
 * Adventure, action RPG game
